@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" role="img" aria-label="ثمانية">
+  <rect width="294" height="142" fill="none"/>
+  <style>
+    text {
+      font-family: "Aref Ruqaa Ink", "Noto Naskh Arabic", "Geeza Pro", serif;
+      font-weight: 700;
+    }
+  </style>
+  <text
+    x="180"
+    y="94"
+    text-anchor="middle"
+    fill="#050505"
+    font-size="86">ثمانية</text>
+</svg>
